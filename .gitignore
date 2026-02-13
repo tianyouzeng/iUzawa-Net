@@ -4,6 +4,5 @@ __pycache__
 .legacy/
 *.npz
 tests/
-trained_models/
 results/
 pyrightconfig.json
